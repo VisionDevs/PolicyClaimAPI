@@ -1,0 +1,25 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.db
+*.db-shm
+*.db-wal
+*.tmp
+*.log
+*.vs
+*.vscode
+*.userprefs
+*.usertasks
+*.swp
+*.swo
+.DS_Store
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/

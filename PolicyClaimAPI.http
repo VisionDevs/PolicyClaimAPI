@@ -1,0 +1,6 @@
+@PolicyClaimAPI_HostAddress = http://localhost:5115
+
+GET {{PolicyClaimAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
